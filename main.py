@@ -8,7 +8,7 @@ from student_module import Student, PremiumStudent, register_student, calculate_
 from student_module import subjects_fee, create_analysis_dataframe, filter_high_fee_students, sort_students_by_fee
 
 st.set_page_config(page_title="BrightMind Tuition Centre", layout="wide")
-st.title("🎓 VR Tuition Centre System")
+st.title("🎓 BrightMind Tuition Centre System")
 
 # ============================================================
 # RESET SYSTEM
